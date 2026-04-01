@@ -28,7 +28,6 @@ Me chamo Franklyn Santos, tenho 19 anos. Atualmente cursando Análise e Desenvol
 </div><br>
 
 <div align="center">
-  <a href="https://github.com/franklyndev" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
   <a href="https://www.instagram.com/franklyyn_santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/franklyn-santos-382122345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white""></a>
 </div>
