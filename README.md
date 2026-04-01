@@ -5,14 +5,41 @@ Me chamo Franklyn Santos, tenho 19 anos. Atualmente cursando Análise e Desenvol
 
 
 
-🤖 Estastísticas
+<div>
+  <h1 align="center">Olá Tudo bem? Meu nome é <a href="https://www.linkedin.com/in/franklyn-santos/"><i>Franklyn Santos</i></a> </h1>
+  <!--<p align="center">Estudo Sistemas de informação na  <a href="https://www.ufs.br"><i>UFS</i></a> -->
+  <p align="center">Estudante de ADS na UNINASSAU </p>
+  
 
+<!-- <div  align="center">
+  <a href="https://github.com/ian-zamba">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ian-zamba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-zamba&layout=compact&langs_count=7&theme=tokyonight"/>
+</div> -->
 
+<div align="center" valign="top"><br>
+  <img align="center" alt="Franklyn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Franklyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="40" align="center" alt="Ian-php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Franklyn-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Franklyn-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Franklyn-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Franklyn-c#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Franklyn-dot-net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Franklyn-sql-server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+  <img align="center" alt="Franklyn-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Franklyn-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img width="40" align="center" alt="Franklyn-GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+</div><br>
 
+<div align="center">
+  <a href="https://github.com/franklyndev" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="https://www.instagram.com/franklyyn_santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/franklyn-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white""></a>
+</div>
 
-<a href="https://github.com/franklyndev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franklyndev&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/franklyndev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklyndev&hide=gdscript&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
