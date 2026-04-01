@@ -6,7 +6,7 @@ Me chamo Franklyn Santos, tenho 19 anos. Atualmente cursando Análise e Desenvol
 
 
 <div>
-  <h1 align="center">Olá Tudo bem? Meu nome é <a href="https://www.linkedin.com/in/franklyn-santos/"><i>Franklyn Santos</i></a> </h1>
+  <h1 align="center">Olá Tudo bem? Meu nome é <a href="https://www.linkedin.com/in/franklyn-santos-382122345/"><i>Franklyn Santos</i></a> </h1>
   <!--<p align="center">Estudo Sistemas de informação na  <a href="https://www.ufs.br"><i>UFS</i></a> -->
   <p align="center">Estudante de ADS na UNINASSAU </p>
   
@@ -22,7 +22,6 @@ Me chamo Franklyn Santos, tenho 19 anos. Atualmente cursando Análise e Desenvol
   <img align="center" alt="Franklyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img width="40" align="center" alt="Ian-php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Franklyn-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Franklyn-sql-server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   <img align="center" alt="Franklyn-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Franklyn-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img width="40" align="center" alt="Franklyn-GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
