@@ -1,6 +1,6 @@
 ## 💻 franklyndev :>
 
-Me chamo Franklyn Santos, tenho 19 anos. Atualmente cursando Análise e Desenvolvimento de Sistemas na Uninassau-SE em Aracaju. Sou fascinado por tecnologia e compartilho minha jornada como programador através do meu canal no Youtube "Franklyn Santos" e pelo GitHub.
+Me chamo Franklyn Santos, tenho 20 anos. Atualmente cursando Análise e Desenvolvimento de Sistemas na Uninassau-SE em Aracaju. Sou fascinado por tecnologia e compartilho minha jornada como programador através do meu canal no Youtube "Franklyn Santos" e pelo GitHub.
 ***
 
 
