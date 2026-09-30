@@ -24,6 +24,8 @@ Me chamo Franklyn Santos, tenho 20 anos. Atualmente cursando Análise e Desenvol
   <img width="40" align="center" alt="Ian-php" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Franklyn-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Franklyn-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Franklyn-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Franklyn-filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg">
   <img align="center" alt="Franklyn-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img width="40" align="center" alt="Franklyn-GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
 </div><br>
