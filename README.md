@@ -37,6 +37,6 @@ Me chamo Franklyn Santos, tenho 20 anos. Atualmente cursando Análise e Desenvol
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/franklyndev/franklyndev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
